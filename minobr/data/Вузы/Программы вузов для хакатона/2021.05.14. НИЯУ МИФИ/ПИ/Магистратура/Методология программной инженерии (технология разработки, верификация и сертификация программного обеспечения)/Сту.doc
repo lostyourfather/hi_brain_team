@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="windows-1251" standalone="yes"?><?mso-application progid="Word.Document"?><w:wordDocument xmlns:w="http://schemas.microsoft.com/office/word/2003/wordml" xmlns:wx="http://schemas.microsoft.com/office/word/2003/auxHint"><w:fonts><w:defaultFonts w:ascii="Times New Roman" /></w:fonts> <w:styles><w:style w:type="paragraph" w:default="on" w:styleId="a"><w:rPr><w:sz w:val="24"/></w:rPr></w:style></w:styles> <w:docPr><w:view w:val="print"/><w:zoom w:percent="100"/></w:docPr><w:body>
+<w:p><w:pPr><w:spacing w:before="0" w:after="0"  w:line-rule="auto"/><w:jc w:val="center"/></w:pPr><w:r><w:t>Министерство науки и высшего образования Российской Федерации</w:t></w:r></w:p>
+<w:p><w:pPr><w:spacing w:before="0" w:after="0"  w:line-rule="auto"/><w:jc w:val="center"/></w:pPr><w:r><w:t>Федеральное государственное автономное образовательное учреждение</w:t></w:r></w:p>
+<w:p><w:pPr><w:spacing w:before="0" w:after="0"  w:line-rule="auto"/><w:jc w:val="center"/></w:pPr><w:r><w:t>высшего образования</w:t></w:r></w:p>
+<w:p><w:pPr><w:pBdr><w:bottom w:val="single" w:sz="4" wx:bdrwidth="10" w:space="1" w:color="auto"/></w:pBdr><w:jc w:val="center"/></w:pPr><w:r><w:t>«Национальный исследовательский ядерный университет «МИФИ»</w:t></w:r></w:p>
+<w:p><w:pPr><w:spacing w:before="0" w:after="0"  w:line-rule="auto"/><w:jc w:val="center"/></w:pPr><w:r><w:t></w:t></w:r></w:p>
+<w:p><w:pPr><w:spacing w:line="360" w:line-rule="auto"/><w:jc w:val="center"/></w:pPr><w:r><w:t>ИНСТИТУТ ИНТЕЛЛЕКТУАЛЬНЫХ КИБЕРНЕТИЧЕСКИХ СИСТЕМ</w:t></w:r></w:p>
+<w:p><w:pPr><w:spacing w:line="360" w:line-rule="auto"/><w:jc w:val="center"/></w:pPr><w:r><w:t>КАФЕДРА КИБЕРНЕТИКИ</w:t></w:r></w:p>
+<w:p><w:pPr><w:spacing w:line="360" w:line-rule="auto"/><w:jc w:val="center"/></w:pPr><w:r><w:t></w:t></w:r></w:p>
+<w:p><w:pPr><w:spacing w:line="360" w:line-rule="auto"/><w:jc w:val="center"/></w:pPr><w:r><w:t></w:t></w:r><w:r><w:rPr><w:b/></w:rPr><w:t>МЕТОДИЧЕСКИЕ УКАЗАНИЯ ДЛЯ СТУДЕНТОВ</w:t></w:r><w:r><w:t></w:t></w:r></w:p>
+<w:p><w:pPr><w:spacing w:line="360" w:line-rule="auto"/><w:jc w:val="center"/></w:pPr><w:r><w:t></w:t></w:r><w:r><w:rPr><w:b/></w:rPr><w:t>ПО ДИСЦИПЛИНЕ</w:t></w:r><w:r><w:t></w:t></w:r></w:p>
+<w:p><w:pPr><w:pBdr><w:bottom w:val="single" w:sz="4" wx:bdrwidth="10" w:space="1" w:color="auto"/></w:pBdr><w:jc w:val="center"/></w:pPr><w:r><w:t></w:t></w:r><w:r><w:rPr><w:b/></w:rPr><w:t>Методология программной инженерии (технология разработки, верификация и сертификация программного обеспечения)</w:t></w:r><w:r><w:t></w:t></w:r></w:p>
+<w:p><w:pPr><w:spacing w:line="360" w:line-rule="auto"/><w:jc w:val="center"/></w:pPr><w:r><w:t></w:t></w:r></w:p>
+<w:tbl><w:tblPr><w:jc w:val="center"/><w:tblCellMar><w:top w:w="0" w:type="dxa"/><w:bottom w:w="0" w:type="dxa"/><w:left w:w="108" w:type="dxa"/><w:right w:w="108" w:type="dxa"/></w:tblCellMar></w:tblPr><w:tblGrid />
+<w:tr><w:tc><w:p><w:r><w:t>Направление подготовки (специальность)</w:t></w:r></w:p></w:tc><w:tc><w:p><w:r><w:t></w:t></w:r><w:r><w:rPr><w:u w:val="single"/></w:rPr><w:t> 09.04.04 Программная инженерия </w:t></w:r><w:r><w:t></w:t></w:r></w:p></w:tc></w:tr>
+<w:tr><w:tc><w:p><w:r><w:t>Профиль подготовки</w:t></w:r></w:p></w:tc><w:tc><w:p><w:r><w:t></w:t></w:r><w:r><w:rPr><w:i/></w:rPr><w:t>[при его наличии]</w:t></w:r><w:r><w:t></w:t></w:r></w:p></w:tc></w:tr>
+<w:tr><w:tc><w:p><w:r><w:t>Наименование образовательной программы (специализация)</w:t></w:r></w:p></w:tc><w:tc><w:p><w:r><w:t></w:t></w:r><w:r><w:rPr><w:u w:val="single"/></w:rPr><w:t> Технологии разработки высококритичных кибернетических систем </w:t></w:r><w:r><w:t></w:t></w:r></w:p></w:tc></w:tr>
+<w:tr><w:tc><w:p><w:r><w:t>Квалификация (степень) выпускника</w:t></w:r></w:p></w:tc><w:tc><w:p><w:r><w:t></w:t></w:r><w:r><w:rPr><w:u w:val="single"/></w:rPr><w:t> магистр </w:t></w:r><w:r><w:t></w:t></w:r></w:p></w:tc></w:tr>
+<w:tr><w:tc><w:p><w:r><w:t>Форма обучения</w:t></w:r></w:p></w:tc><w:tc><w:p><w:r><w:t></w:t></w:r><w:r><w:rPr><w:u w:val="single"/></w:rPr><w:t> очная </w:t></w:r><w:r><w:t></w:t></w:r></w:p></w:tc></w:tr>
+</w:tbl>
+<w:p><w:pPr><w:ind w:after="0" w:first-line="720"/></w:pPr><w:r><w:t></w:t></w:r></w:p>
+<w:p><w:pPr><w:ind w:after="0" w:first-line="720"/></w:pPr><w:r><w:t></w:t></w:r></w:p>
+<w:p><w:pPr><w:spacing w:before="0" w:after="0"  w:line-rule="auto"/><w:jc w:val="center"/></w:pPr><w:r><w:t></w:t></w:r><w:r><w:rPr><w:b/></w:rPr><w:t>АННОТАЦИЯ</w:t></w:r><w:r><w:t></w:t><w:cr /></w:r></w:p>
+<w:p><w:pPr><w:ind w:after="0" w:first-line="720"/></w:pPr><w:r><w:t></w:t></w:r></w:p>
+<w:p><w:pPr><w:spacing w:after="0" w:line-rule="auto"/><w:ind w:first-line="720"/><w:jc w:val="both"/></w:pPr><w:r><w:t>В рамках данной дисциплины студенты знакомятся с базовыми подходами в области разработки программного обеспечения, а также в области управления процессами разработки программного обеспечения. В рамках курса обучаемые студенты будут изучать базовые теоретические и практические понятия, используемые в классических и современных методах разработки программного обеспечения. Также студенты будут изучать специфические методы разработки программного обеспечения, применяемые в различных отраслевых областях промышленности. Кроме прочего студенты знакомятся с понятиями процессов сертификации программного обеспечения, необходимыми условиями и процедурами сертификации. Изучают особенности процессов сертификации программного обеспечения, используемого в различных отраслях промышленности. Студенты изучают особенности процессов разработки сертифицируемого и несертифицируемого программного обеспечения.</w:t></w:r></w:p>
+<w:p><w:pPr><w:ind w:after="0" w:first-line="720"/></w:pPr><w:r><w:t></w:t></w:r></w:p>
+<w:p><w:pPr><w:ind w:after="0" w:first-line="720"/></w:pPr><w:r><w:t></w:t></w:r></w:p>
+<w:p><w:pPr><w:ind w:after="0" w:first-line="720"/></w:pPr><w:r><w:t></w:t></w:r></w:p>
+<w:p><w:pPr><w:spacing w:before="0" w:after="0"  w:line-rule="auto"/><w:jc w:val="center"/></w:pPr><w:r><w:t></w:t></w:r><w:r><w:rPr><w:b/></w:rPr><w:t>СТРУКТУРА ДИСЦИПЛИНЫ</w:t></w:r><w:r><w:t></w:t></w:r></w:p>
+<w:p><w:pPr><w:ind w:after="0" w:first-line="720"/></w:pPr><w:r><w:t></w:t></w:r></w:p>
+<w:p><w:pPr><w:ind w:after="0" w:first-line="720"/></w:pPr><w:r><w:t>	Общая трудоемкость дисциплины составляет 4 кр., 144 час. </w:t></w:r></w:p>
+<w:p><w:pPr><w:ind w:after="0" w:first-line="720"/></w:pPr><w:r><w:t>	Лекции: 16 час. </w:t></w:r></w:p>
+<w:p><w:pPr><w:ind w:after="0" w:first-line="720"/></w:pPr><w:r><w:t>	Практические занятия/семинары: 16 час. </w:t></w:r></w:p>
+<w:p><w:pPr><w:ind w:after="0" w:first-line="720"/></w:pPr><w:r><w:t>	Лабораторные работы: 16 час. </w:t></w:r></w:p>
+<w:p><w:pPr><w:ind w:after="0" w:first-line="720"/></w:pPr><w:r><w:t></w:t></w:r></w:p>
+
+<w:p><w:pPr><w:ind w:after="0" w:first-line="720"/></w:pPr><w:r><w:t></w:t></w:r></w:p>
+<w:p><w:pPr><w:spacing w:before="0" w:after="0"  w:line-rule="auto"/><w:jc w:val="center"/></w:pPr><w:r><w:t></w:t></w:r><w:r><w:rPr><w:b/></w:rPr><w:t>МЕТОДИЧЕСКИЕ УКАЗАНИЯ</w:t></w:r><w:r><w:t></w:t></w:r></w:p>
+<w:p><w:pPr><w:spacing w:before="0" w:after="0"  w:line-rule="auto"/><w:jc w:val="center"/></w:pPr><w:r><w:t></w:t></w:r></w:p>
+
+<w:p><w:pPr><w:ind w:after="0" w:first-line="720"/></w:pPr><w:r><w:t></w:t></w:r></w:p>
+<w:p><w:pPr><w:ind w:after="0" w:first-line="720"/></w:pPr><w:r><w:t></w:t></w:r></w:p>
+</w:body></w:wordDocument>
