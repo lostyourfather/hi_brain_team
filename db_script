@@ -1,0 +1,24 @@
+#!/bin/bash
+sudo apt-get -y remove postgresql postgresql-contrib  >> install.log 2>&1
+sudo apt-get -y install postgresql postgresql-contrib  >> install.log 2>&1
+echo -e "\e[1;32m-- Завершено\e[0m"
+echo -e "\e[1;32m-- Завершено\e[0m" >> install.log 2>&1
+echo
+
+echo -e "\e[0;37m-- Настройка PostgreSQL\e[0m"
+echo -e "\e[0;37m-- Настройка PostgreSQL\e[0m" >> install.log 2>&1
+
+sudo -u postgres bash -c "psql -c \"REASSIGN OWNED BY signalcompany_monitoring TO postgres;\""   >> install.log 2>&1
+sudo -u postgres bash -c "psql -c \"DROP OWNED BY signalcompany_monitoring;\""   >> install.log 2>&1
+sudo -u postgres bash -c "psql -c \"DROP USER IF EXISTS developer;\""   >> install.log 2>&1
+sudo -u postgres bash -c "psql -c \"CREATE USER developer WITH SUPERUSER PASSWORD 'developer';\""   >> install.log 2>&1
+echo -e "\e[1;32m-- Создан пользователь monitoring\e[0m"
+
+sudo -u postgres bash -c "psql -c \"DROP DATABASE signalcompany_monitoring;\""  >> install.log 2>&1
+sudo -u postgres bash -c "psql -c \"CREATE DATABASE hacaton WITH OWNER = developer TEMPLATE = template0 ENCODING='UNICODE' LC_COLLATE='en_US.UTF8' LC_CTYPE='en_US.UTF8';\""  >> install.log 2>&1
+sudo -u postgres bash -c "psql -c \"GRANT CONNECT, CREATE, TEMP ON DATABASE hacaton TO signalcompany_monitoring;\""  >> install.log 2>&1
+sudo -u postgres bash -c "psql -c \"GRANT SELECT, INSERT, UPDATE, DELETE ON ALL TABLES IN SCHEMA public TO signalcompany_monitoring;\""  >> install.log 2>&1
+echo -e "\e[1;32m-- Создана база данных signalcompany_monitoring\e[0m"
+
+sudo -u postgres bash -c "psql signalcompany_monitoring < monitoring_02"  >> install.log 2>&1
+echo -e "\e[1;32m-- Импортирована структура таблиц и данные\e[0m"
